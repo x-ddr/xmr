@@ -1,3 +1,3 @@
 #!/bin/bash
 set -e
-docker build -f Dockerfile -t xmrig:xmrig .
+docker build -f Dockerfile -t xmrig:xd .
